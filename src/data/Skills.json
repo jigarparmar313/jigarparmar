@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "tech":"HTML",
+        "imgSrc": "/src/assets/Images/Data/Skills/HTML.png"
+    },
+    
+    {
+        "id":2,
+        "tech":"CSS",
+        "imgSrc": "/src/assets/Images/Data/Skills/CSS.png"
+    },
+    
+    {
+        "id":3,
+        "tech":"JavaScript",
+        "imgSrc": "/src/assets/Images/Data/Skills/JAVASCRIPT.png"
+    },
+    
+    {
+        "id":4,
+        "tech":"PHP",
+        "imgSrc": "/src/assets/Images/Data/Skills/PHP.png"
+    },
+    
+    {
+        "id":5,
+        "tech":"ReactJs",
+        "imgSrc": "/src/assets/Images/Data/Skills/REACT_JS.gif"
+    },
+    
+    {
+        "id":6,
+        "tech":"Vite",
+        "imgSrc": "/src/assets/Images/Data/Skills/VITE.png"
+    },
+    
+    {
+        "id":7,
+        "tech":"Bootstrap",
+        "imgSrc": "/src/assets/Images/Data/Skills/BOOTSTRAP.png"
+    },
+    
+    {
+        "id":8,
+        "tech":"TailWind Css",
+        "imgSrc": "/src/assets/Images/Data/Skills/TAILWIND_CSS.png"
+    },
+    
+    {
+        "id":9,
+        "tech":"Material UI",
+        "imgSrc": "/src/assets/Images/Data/Skills/MATERIAL_UI.png"
+    },
+    
+    {
+        "id":10,
+        "tech":"SQL",
+        "imgSrc": "/src/assets/Images/Data/Skills/SQL.png"
+    }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "role": "Php Intern",
+    "organisation": "Brainly Beam",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": ["Learn Html and css", "Worked on sql"],
+    "imgSrc": "/src/assets/Images/Data/Company/BrainyBeam_Technologies_Pvt_Ltd.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Web Developer",
+    "organisation": "OpensourceXpert InfoTech",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": ["Learn Html and css", "Worked on sql"],
+    "imgSrc": "/src/assets/Images/Data/Company/OpensourceXpert_InfoTech.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Web Development with Php Intern",
+    "organisation": "Anudip Foundation",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": ["Learn Html and css", "Worked on sql"],
+
+    "imgSrc": "/src/assets/Images/Data/Company/Anudip_Foundation.jpg"
+  },
+  {
+    "id": 4,
+    "role": "Diploma Certification Course On Web Designing",
+    "organisation": "Brainly Beam",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": ["Learn Html and css", "Worked on sql"],
+ 
+    "imgSrc": "/src/assets/Images/Data/Company/Shivam_Computers.jpg"
+  },
+  {
+    "id": 5,
+    "role": "Mern Stack Intern",
+    "organisation": "Arth Infosoft Pvt.ltd.",
+    "startDate": "Sept 2023",
+    "endDate": "Present",
+    "location": "Ahmedabad",
+    "experiences": ["Learn Html and css", "Worked on sql"],
+
+    "imgSrc": "/src/assets/Images/Data/Company/Arth_Infosoft_pvt_ltd.jpg"
+  }
+]
